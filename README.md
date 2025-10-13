@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello there!  
+# Hello!  
 
 🏙️ Located in Paranhos, Portugal  
 📖 Studying Informatics and Computing Engineering  
@@ -10,11 +10,11 @@ Sup y'all, my name is **Divaldo Dias (DD) a.k.a D4yz**, I am 19 years old and i 
 
 I am passionate about **software development, web technologies, and game development**, and i enjoy learning new programming languages and frameworks. Since the beginning of my journey, I've worked on projects involving **Flutter, PHP, SQL, and C/C++**, going from mobile apps to full-stack web platforms.  
 
-I kinda like to address **real-world problems**, designing solutions, and then try to implement them. My journey is focused on **building skills, creating projects, and preparing for professional challenges in tech**.  
+I kinda like to address **real-world problems**, designing solutions, and then try to implement them. My journey is focused on **building skills, creating projects, and preparing for professional challenges in tech**. 
 
 ---
 
-## 🛠️ Languages & Tools
+##Languages & Tools
 
 <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,7 +35,7 @@ I kinda like to address **real-world problems**, designing solutions, and then t
 
 ---
 
-## ⚙️ Misc Tools
+## Misc Tools
 
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -43,7 +43,7 @@ I kinda like to address **real-world problems**, designing solutions, and then t
 
 ---
 
-## 🌱 What I’m currently learning
+## What I’m currently learning
 
 - Advanced **Web Development**  
 - Improving **SQL & Database Design**  
@@ -51,7 +51,7 @@ I kinda like to address **real-world problems**, designing solutions, and then t
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 - [GitHub](https://github.com/D4yz-stp)
 
