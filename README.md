@@ -14,7 +14,7 @@ I kinda like to address **real-world problems**, designing solutions, and then t
 
 ---
 
-##Languages & Tools
+## Languages & Tools
 
 <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
