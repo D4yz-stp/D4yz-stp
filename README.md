@@ -45,14 +45,14 @@ I kinda like to address **real-world problems**, designing solutions, and then t
 
 ## What I’m currently learning
 
-- Advanced **Web Development**  
-- Improving **SQL & Database Design**  
-- Expanding knowledge in **Haskell** and functional programming  
+Advanced **Web Development**  
+Improving **SQL & Database Design**  
+Expanding knowledge in **Haskell** and functional programming  
 
 ---
 
 ## Connect with me
 
-- [GitHub](https://github.com/D4yz-stp)
+[GitHub](https://github.com/D4yz-stp)
 
 </div>
