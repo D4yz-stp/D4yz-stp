@@ -6,12 +6,13 @@
 📖 Studying Informatics and Computing Engineering  
 🎓 University of Porto, Portugal  
 
-Sup y'all, my name is **Divaldo Dias (DD) a.k.a D4yz**, I am 19 years old and i am currently studying **Informatics and Computing Engineering** at the FEUP university.  
+Sup y'all, my name is **Divaldo Dias (DD) a.k.a D4yz**, I am 19 years old and I am currently studying **Informatics and Computing Engineering** at the FEUP university.  
 
-I am passionate about **software development, web technologies, and game development**, and i enjoy learning new programming languages and frameworks. Since the beginning of my journey, I've worked on projects involving **Flutter, PHP, SQL, and C/C++**, going from mobile apps to full-stack web platforms.  
+I am passionate about **software development, web technologies, and game development**, and I enjoy learning new programming languages and frameworks. Since the beginning of my journey, I've worked on projects involving **Flutter, PHP, SQL, and C/C++**, going from mobile apps to full-stack web platforms.  
 
 I kinda like to address **real-world problems**, designing solutions, and then try to implement them. My journey is focused on **building skills, creating projects, and preparing for professional challenges in tech**. 
 
+Note: Most of my recent work and daily contributions happen on GitLab. However, because those repositories are private (including university projects), the public dashboard won't display my activity unless you are added to the workspace.
 ---
 
 ## Languages & Tools
