@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Are_u_reading_This.gif" width="240" alt="One Punch Man">
+<img src="Are_u_reading_This.gif" width="200" alt="One Punch Man">
 
 # Hey, I'm Divaldo
 
